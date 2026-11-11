@@ -1,1 +1,14 @@
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
