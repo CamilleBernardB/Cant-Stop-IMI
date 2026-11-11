@@ -83,14 +83,14 @@ The branch `one-dimensional-approximation` explores a one-dimensional approximat
 - Camille Bernard
 - Léo Garnaud
 - Maissa Frikha
-- [TraMax3114](https://github.com/TraMax3114)
+- Maxime Tran ([TraMax3114](https://github.com/TraMax3114))
 - Alexandre Fiolle
 
-<!-- TODO: replace the GitHub handle of TraMax3114 by his full name if he agrees, and add each person's role. From the commit history, the main contributions look like this:
+<!-- TODO: add each person's role. From the commit history, the main contributions look like this:
 - Camille: first 3-column code, one-player simulator, genetic optimization of the Rule of 28, web app.
 - Léo: simulation of the optimal policy, comparison with heuristics, weights, minimum number of rolls.
 - Maissa: roll computations, dynamic heuristic, duels between heuristics, heuristics in the app.
-- TraMax3114: Monte Carlo and storage of V, opening heuristics, DP-3-columns heuristic, plots and final tables.
+- Maxime: Monte Carlo and storage of V, opening heuristics, DP-3-columns heuristic, plots and final tables.
 - Alexandre: one-dimensional dynamic programming and heuristic (branch one-dimensional-approximation). -->
 
 ## References
