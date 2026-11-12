@@ -81,10 +81,12 @@ The branch `one-dimensional-approximation` explores a one-dimensional approximat
 ## Authors
 
 - Camille Bernard
-- Léo Garnaud
-- Maissa Frikha
-- Maxime Tran ([TraMax3114](https://github.com/TraMax3114))
+- Tristan Bonotte
 - Alexandre Fiolle
+- Maissa Frikha
+- Léo Garnaud
+- Maxime Tran
+ 
 
 <!-- TODO: add each person's role. From the commit history, the main contributions look like this:
 - Camille: first 3-column code, one-player simulator, genetic optimization of the Rule of 28, web app.
